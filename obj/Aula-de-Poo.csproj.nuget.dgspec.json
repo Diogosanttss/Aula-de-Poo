@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\20231170150047\\Documents\\GitHub\\Aula-de-Poo\\Aula-de-Poo.csproj": {}
+    "D:\\Users\\20231170150047\\.gitClones\\Aula-de-Poo\\Aula-de-Poo.csproj": {}
   },
   "projects": {
-    "D:\\Users\\20231170150047\\Documents\\GitHub\\Aula-de-Poo\\Aula-de-Poo.csproj": {
+    "D:\\Users\\20231170150047\\.gitClones\\Aula-de-Poo\\Aula-de-Poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\20231170150047\\Documents\\GitHub\\Aula-de-Poo\\Aula-de-Poo.csproj",
+        "projectUniqueName": "D:\\Users\\20231170150047\\.gitClones\\Aula-de-Poo\\Aula-de-Poo.csproj",
         "projectName": "Aula-de-Poo",
-        "projectPath": "D:\\Users\\20231170150047\\Documents\\GitHub\\Aula-de-Poo\\Aula-de-Poo.csproj",
+        "projectPath": "D:\\Users\\20231170150047\\.gitClones\\Aula-de-Poo\\Aula-de-Poo.csproj",
         "packagesPath": "D:\\Users\\20231170150047\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\20231170150047\\Documents\\GitHub\\Aula-de-Poo\\obj\\",
+        "outputPath": "D:\\Users\\20231170150047\\.gitClones\\Aula-de-Poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\20231170150047\\AppData\\Roaming\\NuGet\\NuGet.Config"
